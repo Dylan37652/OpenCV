@@ -1,2 +1,2 @@
 # OpenCV
- Try use OpenCV to preprocess picture
+ Try use OpenCV to preprocess picture.
